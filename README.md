@@ -2,8 +2,6 @@
 
 ## Inspired by [Good Manners](https://www.youtube.com/watch?v=UEQ24lIGaa0) a Film by A. Bhaskar Rao
 
----
-
 ![App](media/app.png)
 
 ## Song Examples
