@@ -1,8 +1,11 @@
 # The Orchestra Is Complete
 
 ## Inspired by [Good Manners](https://www.youtube.com/watch?v=UEQ24lIGaa0) a Film by A. Bhaskar Rao
-
-![App](media/app.png)
+<p align="center">
+  <a href="https://nikhilmirpuri.github.io/GoodManners/">
+    <img src="media/app.png">
+  </a>  
+</p>
 
 ## Song Examples
 
