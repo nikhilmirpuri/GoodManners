@@ -205,18 +205,6 @@ select#select-instrument option {
 }
 
 
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #000 !important;
-    color: #fff !important;
-  }
-
-  header a, footer a {
-    color: #fff !important;
-  }
-
-
   .key {
     background: #333;
     border: 2px solid #252525;
