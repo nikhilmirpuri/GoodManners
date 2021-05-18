@@ -410,3 +410,24 @@ $(document).keyup(function (keyEvent) {
     prevKeyCode = keyEvent.keyCode;
   }
 });
+
+var toShow = true;
+$(document).keydown(function (keyEvent) {
+  if (!keyEvent.originalEvent.repeat) {
+    if (keyEvent.keyCode == 32) {
+      $("#goodmanners").toggle(toShow);
+      $("").toggle(!toShow);
+      toShow = !toShow;
+      prevKeyCode = keyEvent.keyCode;
+    }
+  }
+});
+
+$(document).keyup(function (keyEvent) {
+  if (keyEvent.keyCode == 32) {
+    $("#goodmanners").toggle(toShow);
+    $("").toggle(!toShow);
+    toShow = !toShow;
+    prevKeyCode = keyEvent.keyCode;
+  }
+});
