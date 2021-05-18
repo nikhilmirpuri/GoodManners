@@ -233,7 +233,7 @@ select#select-instrument option {
   .cc-window {
     border: 1px solid rgba(255, 255, 255, 0.2) !important;
   }
-}
+
 
 @media (prefers-reduced-motion: reduce) {
   svg#github:hover .octo-arm {
@@ -262,4 +262,5 @@ select#select-instrument option {
   #touch {
     display: block;
   }
+}
 }
