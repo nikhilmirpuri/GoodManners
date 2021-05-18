@@ -2,7 +2,7 @@
 
 ## Inspired by [Good Manners](https://www.youtube.com/watch?v=UEQ24lIGaa0) a Film by A. Bhaskar Rao
 <p align="center">
-  <a href="https://nikhilmirpuri.github.io/GoodManners/">
+  <a href="https://nikhilmirpuri.github.io/goodmanners/">
     <img src="media/app.png">
   </a>  
 </p>
